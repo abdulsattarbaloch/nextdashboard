@@ -1,2 +1,2 @@
 # nextdashboard
-Next dashboard app
+Next dashboard app for beginners
